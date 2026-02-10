@@ -14,7 +14,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
 
 #### 📝 About
 这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。是一个安静、内敛的灵魂，偏爱在傍晚的微光中寻找灵感。
@@ -26,34 +26,33 @@
 - **近况:** 摆烂
 
 #### 🛠️ Languages & Tools
-**Development**
+**Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-D6C5B7?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F2E9E2?style=flat-square&logo=javascript&logoColor=8C766D" />
-  <img src="https://img.shields.io/badge/React-D6C5B7?style=flat-square&logo=react&logoColor=white" />
-</p>
-
-**Design & Creative**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F2E9E2?style=flat-square&logo=figma&logoColor=8C766D" />
-  <img src="https://img.shields.io/badge/Photoshop-D6C5B7?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Procreate-F2E9E2?style=flat-square&logo=procreate&logoColor=8C766D" />
+  <img src="https://img.shields.io/badge/C%23-F2E9E2?style=flat-square&logo=c-sharp&logoColor=8C766D" />
+  <img src="https://img.shields.io/badge/Java-D6C5B7?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-F2E9E2?style=flat-square&logo=qt&logoColor=8C766D" />
+  <img src="https://img.shields.io/badge/WPF-D6C5B7?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
 **Tools**
 <p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-F2E9E2?style=flat-square&logo=visual-studio&logoColor=8C766D" />
   <img src="https://img.shields.io/badge/VS_Code-D6C5B7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-F2E9E2?style=flat-square&logo=android-studio&logoColor=8C766D" />
+  <img src="https://img.shields.io/badge/Cursor-D6C5B7?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F2E9E2?style=flat-square&logo=git&logoColor=8C766D" />
 </p>
 
 #### ✉️ Contact
-- **邮箱:** [HoshiSaneko@example.com](mailto:HoshiSaneko@example.com)
-- **Discord:** `Saneko#0000`
+- **邮箱:** [qiatao0305@163.com](mailto:qiatao0305@163.com)
 
     </td>
-    <td width="40%" align="right" valign="top">
+    <td width="45%" align="center" valign="top">
       <br />
-      <img src="assets/side-pic.jpg" width="260" style="border-radius: 15px; border: 4px solid #F2E9E2; box-shadow: 0 10px 20px rgba(140,118,109,0.15);" />
+      <div style="background-color: #F2E9E2; padding: 10px; border-radius: 20px; box-shadow: 0 15px 35px rgba(140,118,109,0.2);">
+        <img src="assets/side-pic.jpg" style="border-radius: 15px; display: block;" />
+      </div>
       <br />
       <p align="center">
         <sub style="color: #A69087;"><i>"Starlight & Shallow Sea"</i></sub>
@@ -67,7 +66,6 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="opacity: 0.12; filter: sepia(60%) brightness(1.1);">
   <p align="center">
     <sub style="color: #D6C5B7; letter-spacing: 4px;">GENTLE · CALM · HEALING</sub>
     <br />
