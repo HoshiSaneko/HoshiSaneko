@@ -12,18 +12,12 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="72%" valign="top">
+<img src="assets/side-pic.jpg" align="right" width="220" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-left: 25px;" />
 
 #### 📝 About
 这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。是一个安静、内敛的灵魂，偏爱在傍晚的微光中寻找灵感。
-- **MBTI:** `INTJ`
 
-#### 🐚 Life & Hobbies
-- **爱好:** 睡觉、刷视频、深夜敲代码
-- **游戏:** Minecraft
-- **近况:** 摆烂
+● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **爱好:** `Sleeping` &nbsp;&nbsp; ● &nbsp; **游戏:** `🎮Minecraft` &nbsp;&nbsp; 
 
 #### 🛠️ Languages & Frameworks
 <p align="left">
@@ -43,28 +37,14 @@
   <img src="https://img.shields.io/badge/Git-F2E9E2?style=flat-square&logo=git&logoColor=8C766D" />
 </p>
 
-#### ✉️ Contact
-- **邮箱:** [qiatao0305@163.com](mailto:qiatao0305@163.com)
-
-    </td>
-    <td width="28%" align="right" valign="top">
-      <br />
-      <img src="assets/side-pic.jpg" width="200" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); display: block;" />
-      <p align="center">
-        <sub style="color: #A69087; letter-spacing: 1px;"><i>"Starlight & Shallow Sea"</i></sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
+<br clear="right" />
 
 ---
 
 <div align="center">
   <p align="center">
-    <sub style="color: #D6C5B7; letter-spacing: 4px;">GENTLE · CALM · HEALING</sub>
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=HoshiSaneko&label=SEA_LEVEL&color=8C766D&style=flat-square" alt="Visitors">
+    <sub style="color: #D6C5B7; letter-spacing: 4px; vertical-align: middle;">GENTLE · CALM · HEALING</sub>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=HoshiSaneko&label=SEA_LEVEL&color=8C766D&style=flat-square" alt="Visitors" style="vertical-align: middle;">
   </p>
 </div>
