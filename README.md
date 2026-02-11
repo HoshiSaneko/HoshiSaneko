@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/Git-F2E9E2?style=flat-square&logo=git&logoColor=8C766D" />
 </p>
 
+<p align="left">
+  <img src="assets/side-gif3.gif" height="120" style="border-radius: 12px; margin-right: 10px;" />
+</p>
+
 <br clear="right" />
 
 <div align="center">
