@@ -7,17 +7,16 @@
   <p align="center">
     <img src="https://img.shields.io/badge/ID-HoshiSaneko-D6C5B7?style=flat-square&logo=github&labelColor=D6C5B7&color=8C766D&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-Daydreaming-F2E9E2?style=flat-square&logo=sparkles&labelColor=F2E9E2&color=D6C5B7&logoColor=8C766D" />
+    <img src="https://komarev.com/ghpvc/?username=HoshiSaneko&label=SEA_LEVEL&color=8C766D&style=flat-square" alt="Visitors">
   </p>
 </div>
-
----
 
 <img src="assets/side-pic.jpg" align="right" width="220" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-left: 25px;" />
 
 #### 📝 About
 这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。是一个安静、内敛的灵魂，偏爱在傍晚的微光中寻找灵感。
 
-● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **爱好:** `Sleeping` &nbsp;&nbsp; ● &nbsp; **游戏:** `🎮Minecraft` &nbsp;&nbsp; 
+● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **Hobbies:** `Sleeping, Binge-watching, Late-night coding` &nbsp;&nbsp; ● &nbsp; **Games:** `🎮Minecraft` &nbsp;&nbsp; 
 
 #### 🛠️ Languages & Frameworks
 <p align="left">
@@ -39,12 +38,8 @@
 
 <br clear="right" />
 
----
-
 <div align="center">
   <p align="center">
-    <sub style="color: #D6C5B7; letter-spacing: 4px; vertical-align: middle;">GENTLE · CALM · HEALING</sub>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=HoshiSaneko&label=SEA_LEVEL&color=8C766D&style=flat-square" alt="Visitors" style="vertical-align: middle;">
+    <sub style="color: #D6C5B7; letter-spacing: 4px;">GENTLE · CALM · HEALING</sub>
   </p>
 </div>
