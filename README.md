@@ -11,14 +11,14 @@
   </p>
 </div>
 
-<img src="assets/side-pic.jpg" align="right" width="220" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-left: 25px;" />
+<img src="assets/side-pic.jpg" align="right" width="270" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-left: 25px;" />
 
-#### 📝 About
+#### ✨ About
 这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。是一个安静、内敛的灵魂，偏爱在傍晚的微光中寻找灵感。
 
-● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **Hobbies:** `Sleeping, Binge-watching, Late-night coding` &nbsp;&nbsp; ● &nbsp; **Games:** `🎮Minecraft` &nbsp;&nbsp; 
+● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **Hobbies:** `Sleep` &nbsp;&nbsp; ● &nbsp; **Games:** `🎮Minecraft` &nbsp;&nbsp; 
 
-#### 🛠️ Languages & Frameworks
+#### ⛄ Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-D6C5B7?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-F2E9E2?style=flat-square&logo=c-sharp&logoColor=8C766D" />
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/WPF-D6C5B7?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
-#### 🔧 Tools
+#### 🐳 Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-F2E9E2?style=flat-square&logo=visual-studio&logoColor=8C766D" />
   <img src="https://img.shields.io/badge/VS_Code-D6C5B7?style=flat-square&logo=visual-studio-code&logoColor=white" />
