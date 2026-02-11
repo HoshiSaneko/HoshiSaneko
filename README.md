@@ -12,9 +12,9 @@
 
 ---
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="72%" valign="top">
 
 #### 📝 About
 这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。是一个安静、内敛的灵魂，偏爱在傍晚的微光中寻找灵感。
@@ -25,8 +25,7 @@
 - **游戏:** Minecraft
 - **近况:** 摆烂
 
-#### 🛠️ Languages & Tools
-**Languages & Frameworks**
+#### 🛠️ Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-D6C5B7?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-F2E9E2?style=flat-square&logo=c-sharp&logoColor=8C766D" />
@@ -35,7 +34,7 @@
   <img src="https://img.shields.io/badge/WPF-D6C5B7?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
-**Tools**
+#### 🔧 Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-F2E9E2?style=flat-square&logo=visual-studio&logoColor=8C766D" />
   <img src="https://img.shields.io/badge/VS_Code-D6C5B7?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -48,14 +47,11 @@
 - **邮箱:** [qiatao0305@163.com](mailto:qiatao0305@163.com)
 
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="28%" align="right" valign="top">
       <br />
-      <div style="background-color: #F2E9E2; padding: 10px; border-radius: 20px; box-shadow: 0 15px 35px rgba(140,118,109,0.2);">
-        <img src="assets/side-pic.jpg" style="border-radius: 15px; display: block;" />
-      </div>
-      <br />
+      <img src="assets/side-pic.jpg" width="200" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); display: block;" />
       <p align="center">
-        <sub style="color: #A69087;"><i>"Starlight & Shallow Sea"</i></sub>
+        <sub style="color: #A69087; letter-spacing: 1px;"><i>"Starlight & Shallow Sea"</i></sub>
       </p>
     </td>
   </tr>
