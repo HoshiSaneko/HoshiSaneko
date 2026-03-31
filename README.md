@@ -14,7 +14,7 @@
 <img src="assets/side-pic.jpg" align="right" width="270" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-left: 25px;" />
 
 #### ✨ About
-这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。一个安静内敛的小灵魂，偏爱独处与治愈。
+这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。话不多，日常就是宅家睡觉、玩 Minecraft，偶尔写点代码。
 
 ● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **Hobbies:** `Sleep` &nbsp;&nbsp; ● &nbsp; **Games:** `🎮Minecraft` &nbsp;&nbsp; 
 
