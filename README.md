@@ -1,49 +1,34 @@
 <div align="center">
-  <br />
   <a href="https://github.com/HoshiSaneko">
-    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=700&size=38&duration=3500&pause=1000&color=8C766D&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+HoshiSaneko;星島+さねこ+%7C+Starlight+%26+Tides" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=700&size=34&duration=3200&pause=900&color=7FB38D&center=true&vCenter=true&width=760&lines=Hi%2C+this+is+Saneko;It's+okay+to+slack+off+for+a+while%7E" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/ID-HoshiSaneko-D6C5B7?style=flat-square&logo=github&labelColor=D6C5B7&color=8C766D&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Daydreaming-F2E9E2?style=flat-square&logo=sparkles&labelColor=F2E9E2&color=D6C5B7&logoColor=8C766D" />
-    <img src="https://komarev.com/ghpvc/?username=HoshiSaneko&label=SEA_LEVEL&color=8C766D&style=flat-square" alt="Visitors">
+  <p>
+    <img src="https://img.shields.io/badge/Saneko-EAF6EE?style=flat&logo=github&logoColor=6FA684&labelColor=EAF6EE&color=EAF6EE" alt="Saneko badge" />
+    <img src="https://img.shields.io/badge/INTJ-F3FBF5?style=flat&logo=leaflet&logoColor=7FB38D&labelColor=F3FBF5&color=F3FBF5" alt="INTJ badge" />
+    <img src="https://img.shields.io/badge/China-EEF7F1?style=flat&logo=pinboard&logoColor=7AA88A&labelColor=EEF7F1&color=EEF7F1" alt="China badge" />
   </p>
 </div>
-
-<img src="assets/side-pic3.png" align="right" width="270" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-left: 25px;" />
-
-#### ✨ About
-这里是 **星屿浅奈 (HoshiSaneko/Saneko)**。话不多，日常就是宅家睡觉、玩 Minecraft，偶尔写点代码。
-
-● &nbsp; **MBTI:** `INTJ` &nbsp;&nbsp; ● &nbsp; **Hobbies:** `Sleep` &nbsp;&nbsp; ● &nbsp; **Games:** `🎮Minecraft` &nbsp;&nbsp; 
-
-#### ⛄ Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-D6C5B7?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-F2E9E2?style=flat-square&logo=c-sharp&logoColor=8C766D" />
-  <img src="https://img.shields.io/badge/Java-D6C5B7?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-F2E9E2?style=flat-square&logo=qt&logoColor=8C766D" />
-  <img src="https://img.shields.io/badge/WPF-D6C5B7?style=flat-square&logo=dotnet&logoColor=white" />
-</p>
-
-#### 🐳 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio-F2E9E2?style=flat-square&logo=visual-studio&logoColor=8C766D" />
-  <img src="https://img.shields.io/badge/VS_Code-D6C5B7?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-F2E9E2?style=flat-square&logo=android-studio&logoColor=8C766D" />
-  <img src="https://img.shields.io/badge/Cursor-D6C5B7?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F2E9E2?style=flat-square&logo=git&logoColor=8C766D" />
-</p>
-
-<p align="left">
-  <img src="assets/side-gif3.gif" height="120" style="border-radius: 12px; margin-right: 10px;" />
-</p>
-
-<br clear="right" />
-
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+      <h3>About Me</h3>
+      <p>这里是 <strong>Saneko</strong>， 一个非常非常 i 的人，喜欢宅在家里。网上话会多一点，现实里通常不太说话，偶尔会突然发一下神经。</p>
+      <p>平时喜欢刷视频，游戏偶尔玩 <code>Minecraft</code>，对生电比较感兴趣，建筑基本一窍不通。睡觉和零食哪个更重要？</p>
+      <h3>Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,cs,java,qt,dotnet&theme=light" alt="Stack skill icons" />
+      </p>
+      <h3>Tools I Like</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git&theme=light" alt="Tools skill icons" />
+      </p>
+      <img src="assets/side-pic4.png" width="100%" alt="desk scene" />
+    </td>
+    <td width="38%" valign="top" align="center">
+      <img src="assets/side-pic3.png" width="92%" alt="character art" />
+    </td>
+  </tr>
+</table>
 <div align="center">
-  <p align="center">
-    <sub style="color: #D6C5B7; letter-spacing: 4px;">Introverted • Homebody • Sleepy</sub>
-  </p>
+  <sub>stay happy | enjoy every little day</sub>
 </div>
