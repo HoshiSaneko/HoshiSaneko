@@ -1,12 +1,8 @@
-<img src="assets/mountain-banner.svg" width="100%" alt="云雾间层叠的山峦" />
+<img src="assets/mountain-banner.jpg" width="1200" height="200" alt="云雾间层叠的山峦" />
 
-<br>
-
-## Saneko
+### Saneko
 
 个人项目与开发记录
-
-<br>
 
 Blog — [saneko.me](https://saneko.me)
 
@@ -18,6 +14,4 @@ Blog — [saneko.me](https://saneko.me)
 
 <br>
 
----
-
-Python · C# · Java · Qt · .NET
+<sub>Stay curious. Enjoy the little things.</sub>
